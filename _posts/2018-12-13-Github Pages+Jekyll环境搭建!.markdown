@@ -4,9 +4,9 @@ title:  "Github Pages+Jekyll环境搭建!"
 date:   2018-12-13 10:08:24 +0800
 categories: jekyll update
 ---
-1、安装Ruby
+## 1、安装Ruby
 
-	下载地址:http://rubyinstaller.org/downloads/
+  下载地址:[http://rubyinstaller.org/downloads/](http://rubyinstaller.org/downloads/)
 	
 ![](/assets/2018-12-13/img/1.jpg)
 
@@ -18,9 +18,9 @@ categories: jekyll update
 	安装目录：D:\software\rub\Ruby23-x64
 	Ruby安装成功
 
-2、安装DevKit
+## 2、安装DevKit
 
-	下载地址:http://rubyinstaller.org/downloads/
+  下载地址:[http://rubyinstaller.org/downloads/](http://rubyinstaller.org/downloads/)
 	
 ![](/assets/2018-12-13/img/3.jpg)
 
@@ -45,7 +45,7 @@ categories: jekyll update
 
 ![](/assets/2018-12-13/img/6.jpg)
 
-3、安装Jekyll
+## 3、安装Jekyll
 	
 	1）gem install jekyll
 	
@@ -57,7 +57,7 @@ categories: jekyll update
 	
 ![](/assets/2018-12-13/img/8.jpg)	
 	
-4、运行服务器	
+## 4、运行服务器	
 	
 	进入 myblog 文件夹，运行服务器
 	
@@ -69,26 +69,26 @@ categories: jekyll update
 
 ![](/assets/2018-12-13/img/9.jpg)
 
-	访问测试：http://127.0.0.1:4000/(如下图)
+  访问测试：[http://127.0.0.1:4000/](http://127.0.0.1:4000/)(如下图)
 	
 ![](/assets/2018-12-13/img/10.jpg)
 
 至此环境安装完毕
 	
-5、github创建仓库		
-	网站地址：https://github.com/
+## 5、github创建仓库		
+  网站地址：[https://github.com/](https://github.com/)
 	
-	第一步命名规则：username.github.com
+	第一步命名规则：username.github.io
 	
 	第二步直接创建即可
 	
 ![](/assets/2018-12-13/img/11.jpg)	
 	
-6、将项目（代码）从GitHub上克隆（下载）到本地仓库	
+## 6、将项目（代码）从GitHub上克隆（下载）到本地仓库	
 	
 	1)要将项目从GitHub上克隆到本地，首先你得下载并安装好git for window。
 	
-	下载地址:https://gitforwindows.org/
+  下载地址:[https://gitforwindows.org/](https://gitforwindows.org/)
 	
 	安装时，直接next就行。
 	
@@ -128,7 +128,7 @@ categories: jekyll update
 	
 ![](/assets/2018-12-13/img/16.jpg)	
 
-7、本地博客发布到Github Pages
+## 7、本地博客发布到Github Pages
 
 	1）将项目myblog文件夹下所有文件拷贝到D:\software\rub\liuchengbaobao1.github.io下
 
@@ -146,7 +146,7 @@ categories: jekyll update
 
 ![](/assets/2018-12-13/img/18.jpg)	
 
-8、写博客
+## 8、写博客
 	
 	1)按照D:\software\rub\DevKit\myblog\_posts目录下文件格式编写（如下图）
 
