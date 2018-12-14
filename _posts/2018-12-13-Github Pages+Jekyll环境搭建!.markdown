@@ -5,8 +5,8 @@ date:   2018-12-13 10:08:24 +0800
 categories: jekyll update
 ---
 ## 1、安装Ruby
-
-  下载地址:[http://rubyinstaller.org/downloads/](http://rubyinstaller.org/downloads/)
+  
+  下载地址:<a href="http://rubyinstaller.org/downloads/" target="_blank">http://rubyinstaller.org/downloads/</a>
 	
 ![](/assets/2018-12-13/img/1.jpg)
 
@@ -20,7 +20,7 @@ categories: jekyll update
 
 ## 2、安装DevKit
 
-  下载地址:[http://rubyinstaller.org/downloads/](http://rubyinstaller.org/downloads/)
+  下载地址:<a href="http://rubyinstaller.org/downloads/" target="_blank">http://rubyinstaller.org/downloads/</a>
 	
 ![](/assets/2018-12-13/img/3.jpg)
 
@@ -69,14 +69,15 @@ categories: jekyll update
 
 ![](/assets/2018-12-13/img/9.jpg)
 
-  访问测试：[http://127.0.0.1:4000/](http://127.0.0.1:4000/)(如下图)
+  访问测试：<a href="http://127.0.0.1:4000/" target="_blank">http://127.0.0.1:4000/</a>(如下图)
 	
 ![](/assets/2018-12-13/img/10.jpg)
 
 至此环境安装完毕
 	
 ## 5、github创建仓库		
-  网站地址：[https://github.com/](https://github.com/)
+  
+  网站地址：<a href="https://github.com/" target="_blank">https://github.com/</a>
 	
 	第一步命名规则：username.github.io
 	
@@ -88,8 +89,7 @@ categories: jekyll update
 	
 	1)要将项目从GitHub上克隆到本地，首先你得下载并安装好git for window。
 	
-  下载地址:[https://gitforwindows.org/](https://gitforwindows.org/)
-	
+  下载地址：<a href="https://gitforwindows.org/" target="_blank">https://gitforwindows.org/</a>	
 	安装时，直接next就行。
 	
 	2)配置Git：安装完后，右键单击桌面空白处，选择Git Gui Here，进去之后，选择左上角的help选项，
